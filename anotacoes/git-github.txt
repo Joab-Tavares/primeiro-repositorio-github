@@ -1,0 +1,2 @@
+README: De modo simplificado, podemos descrever um arquivo README como um guia que dá aos usuários uma descrição detalhada do projeto em que você trabalhou. Ele também pode ser descrito como uma documentação com diretrizes para usar em um projeto.
+	
